@@ -1,2 +1,2 @@
 # FDSE-DETR-Mining-Detection
-后续会持续更新
+The current code still needs to be organized, and considering that we hope to base our upcoming work on it, we will upload the complete code after finishing the subsequent tasks.
